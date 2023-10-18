@@ -1,0 +1,32 @@
+ h1{color:red;
+         font-size:40px;
+         margin: 0px;
+         border:2px;
+         text-align: cente;
+         letter-spacing:0.1em;
+      }
+      body{background-image:url("https://t3.ftcdn.net/jpg/03/51/51/28/360_F_351512882_2kFH8IaSe4lyA7SXBLzEXyGKNEgbO1iH.jpg");
+           background-size:cover;
+           height:100vh;}
+      img{border-color:black;
+          border-width:3px;
+          border-style: solid;
+          border-radius:5px;
+          left:10;
+          top:10;
+          height:20%;
+          width:20%;
+          backgroungd-repeat:no repeat;
+          object-fit: cover;
+          box-shadow:0px;
+         
+        
+      }
+      h4{;left:100px;right:100px;top:100px;bottom:100px;opacity=0.25em;}
+      h2{color:green;font-size:25px;font-family:monospace;max-width:200px;}
+      h3{color:green;font-size:25px;font-family:monospace;max-width:200px;}
+      table{width:500px;border-spacing:10px;}
+      th ,caption{text-align:center;}
+      table, th, tr {border:3px solid #000;border-collapse:collapse;padding:10px;}
+      tr:nth-child(even){background-color: #ddd;}
+      tr:nth-child(odd){background-color: #fff;}
